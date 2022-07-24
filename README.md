@@ -1,7 +1,7 @@
 # laravel9_multiple_image_upload
 ## 1. Install Laravel 9
 ```Dockerfile
-composer create-project laravel/laravel example-app
+composer create-project laravel/laravel laravel9_multiple_image_upload
 ```
 ## 2. Create Migration and Model
 ```Dockerfile
