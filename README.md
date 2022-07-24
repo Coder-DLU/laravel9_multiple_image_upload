@@ -229,7 +229,7 @@ Route::controller(ImageController::class)->group(function(){
     
 </html>
 ```
-## 5. Chạy project
+## 6. Chạy project
 
 ```Dockerfile
 php artisan serve
